@@ -115,7 +115,7 @@ Creating sub-interfaces for each VLAN:
 ![image](https://github.com/user-attachments/assets/6a76fa4b-9eb2-4185-a63b-7d880bf37055)
 ![image](https://github.com/user-attachments/assets/17dd6eda-851d-49b5-a35b-19c72d8dbae1)
 
-Running ‘do show start’ on router:
+Checking the sub-interfaces on the router:
 
 ![image](https://github.com/user-attachments/assets/23aac1aa-71a3-48e5-86ad-32c8aee0788b)
 
