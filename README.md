@@ -1,4 +1,9 @@
 # Design and Implementation of a Small Office Home Office Network 
+
+## Networking simulation software used:
+
+Cisco Packet Tracer 8.2.2
+
 ## Scenario & Requirements:
 
 XYZ company is a fast-growing company in Eastern Australia with more than 2 million customers globally. The company deals with selling and buying food items, which are basically operated by the headquarters. The company is intending to open a branch near the local village Bonalbo. Thus, the company requires young IT graduates to design the network for the branch. The network is intended to operate separately from the HQ network. Being a small network, the company has the following requirements regarding implementation:
